@@ -1,0 +1,10 @@
+*.pkl
+*.joblib
+*.pt
+*.bin
+__pycache__/
+Downloads/
+*.pkl
+*.zip
+*.exe
+*.pdf
