@@ -1,5 +1,5 @@
 alembic==1.17.2
-anaconda-anon-usage @ file:///opt/miniconda3/conda-bld/anaconda-anon-usage_1757625769226/work
+
 anaconda-auth @ file:///opt/miniconda3/conda-bld/anaconda-cloud-auth-split_1759943045113/work
 anaconda-cli-base @ file:///opt/miniconda3/conda-bld/anaconda-cli-base_1760698235316/work
 annotated-doc==0.0.4
